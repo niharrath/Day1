@@ -1,0 +1,16 @@
+What is a class?
+
+It is a combination of Methods and variables.
+
+What is a Object?
+Object is an instance of a class.
+
+Real time example of class and object:
+
+Class: Human Object: Man, Woman
+
+Class: Fruit Object: Apple, Banana, Mango, Guava etc.
+
+Class: Mobile phone Object: iPhone, Samsung, Moto
+
+Class: Food Object: Pizza, Burger, Samosa
